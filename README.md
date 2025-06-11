@@ -12,7 +12,7 @@ Bachelor of Science in Statistic, University Malaya
 
 2. [Logistics-Smart Sales Analysis: SQL Insights into Order Trends and Delivery Delays]
 
-   ![Image](https://github.com/user-attachments/assets/ec0e8281-2904-417b-9866-bb579d5d783b)
+   ![Image](https://github.com/user-attachments/assets/fbda0423-2fcc-44e9-98e9-963f74bb8431)
 
    
 3. [From Stockouts to Streamlined: Supply Chain Performance Dashboard with Power BI](https://github.com/shanurwan/Supply-Chain-Analytic/tree/main)
