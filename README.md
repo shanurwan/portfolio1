@@ -1,4 +1,4 @@
-## Data Sherlock
+## Insight Driven Problem Solver 
 
 Technical Skills: Python, SQL, Power BI, Excel VBA
 
