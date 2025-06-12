@@ -10,7 +10,7 @@ Bachelor of Science in Statistic, University Malaya
 
    ![Image](https://github.com/user-attachments/assets/f3595856-d8a9-47d4-9565-f104c994d025)
 
-2. [Logistics-Smart Sales Analysis: SQL Insights into Order Trends and Delivery Delays]
+2. [Logistics-Smart Sales Analysis: SQL Insights into Order Trends and Delivery Delays](https://github.com/shanurwan/Logistic-Smart-Analysis/tree/main)
 
    ![Image](https://github.com/user-attachments/assets/fbda0423-2fcc-44e9-98e9-963f74bb8431)
 
