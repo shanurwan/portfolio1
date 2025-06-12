@@ -17,4 +17,4 @@ Bachelor of Science in Statistic, University Malaya
    
 3. [From Stockouts to Streamlined: Supply Chain Performance Dashboard with Power BI](https://github.com/shanurwan/Supply-Chain-Analytic/tree/main)
    
-   ![Image](https://github.com/user-attachments/assets/aff45df8-2db6-46f2-bed8-be3cf01a5936)
+   ![Image](https://github.com/user-attachments/assets/9f1f2f71-fe5d-4d50-ae0d-2df801360399)
